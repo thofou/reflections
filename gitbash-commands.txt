@@ -1,0 +1,6 @@
+pwd			# aktueller Pfad
+ls			# Dateien auflisten
+mkdir		# Ordner erstellen
+
+
+npad		# notepad++ starten
