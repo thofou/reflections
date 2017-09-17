@@ -2,5 +2,20 @@ pwd			# aktueller Pfad
 ls			# Dateien auflisten
 mkdir		# Ordner erstellen
 
+git diff				# compare working dir with staging area
+	--staged			# compare staging area with last commit
+	commit1 commit2		# compare commit1 and commit2
+git log
+git clone
+git add
+git status
+git commit
+git reset
+	--hard
+git checkout
+	master	# checkout master
+git branch xyz			# create new brach 'xyz'
+git checkout -b xyz		# create new branch 'xyz' and check it out afterwards
 
 npad		# notepad++ starten
+subl		# sublime starten (über .bash_profile eingerichtet)
